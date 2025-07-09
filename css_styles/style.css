@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+    background-color: rgb(29, 27, 27);
+}
+h2 {
+    color: hsla(180, 100%, 83%, 0.685);
+}
+a {
+    color: rgb(105, 105, 105);
+}
+#Title {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
