@@ -3,9 +3,11 @@
     background-color: rgb(29, 27, 27);
 }
 h2 {
+    font-family: 'Fredoca', sans-serif;
     color: hsla(180, 100%, 83%, 0.685);
 }
-a {
+div a {
+    font-family: 'Playfair Display', serif;
     color: rgb(105, 105, 105);
 }
 #Title {
