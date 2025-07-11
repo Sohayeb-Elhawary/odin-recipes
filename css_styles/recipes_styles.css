@@ -1,0 +1,15 @@
+.img_credit {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.37);
+    margin-top: 12px;
+}
+#note {
+    color: red;
+}
+#header {
+    text-align: center;
+}
+.images {
+    display: block;
+    margin: auto;
+}
