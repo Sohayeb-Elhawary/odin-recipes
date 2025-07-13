@@ -13,7 +13,6 @@ div a {
     margin-bottom: 10px;
 }
 #Title {
-    display: inline-block;
     font-size: 110px;
     color: rgb(255, 255, 255);
     margin-bottom: 100px;
@@ -32,6 +31,10 @@ div a {
 #Troll {
     width: 800px;
     display: inline-block;
+}
+#troll {
+    width: 1000px;
+    height: 800px;
 }
 .troll_text {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
