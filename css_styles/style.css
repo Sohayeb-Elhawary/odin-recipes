@@ -5,7 +5,7 @@ body {
 .diet {
     font-family: 'Fredoca', sans-serif;
     color: hsla(180, 100%, 83%, 0.685);
-    font-size: 40px;
+    font-size: 30px;
 }
 div a {
     font-family: 'Playfair Display', serif;
@@ -18,7 +18,7 @@ div a {
     margin-bottom: 100px;
 }
 .recipes {
-    font-size: 24px;
+    font-size: 12px;
     margin-bottom: 30px;
 }
 #gojo_pointer {
